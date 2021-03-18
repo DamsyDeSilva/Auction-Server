@@ -1,6 +1,6 @@
 # Auction-Server
 
-CO225 - Software Constructions <br/>
+CO225 - Software Construction <br/>
 Project 02 (Group Project) - Auction Server  <br/>
 Group Number - 04  <br/>
 Members : 
